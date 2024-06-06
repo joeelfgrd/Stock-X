@@ -1,5 +1,7 @@
-package edu.badpals;
+package edu.badpals.Item;
 import java.util.List;
+
+import edu.badpals.offer.Offer;
 
 public interface Item {
     public int getBid();

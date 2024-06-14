@@ -1,10 +1,9 @@
+package edu.badpals;
+import edu.badpals.criteria.*;
 import edu.badpals.Item.Item;
+import edu.badpals.offer.*;
+import java.util.List;
 import edu.badpals.Item.Sneaker;
-import edu.badpals.offer.Offer;
-import edu.badpals.offer.Bid;
-import edu.badpals.offer.Ask;
-import edu.badpals.offer.Sale;
-import edu.badpals.criteria.Criteria;
  
 
 /**
